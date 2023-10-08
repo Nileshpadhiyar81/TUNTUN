@@ -48,7 +48,7 @@ var right = document.getElementsByClassName("right");
         x.pause(); 
     } 
 
-    function main_wish() {
+    function main_wish2() {
         var x = document.getElementById("WISH" );
         // var x = document.querySelectorAll("WISH , balloon-container");
         
