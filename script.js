@@ -49,7 +49,7 @@ var right = document.getElementsByClassName("right");
     } 
 
     function main_wish2() {
-        var x = document.getElementById("show_button");
+        var x = document.getElementById("WISH");
         // var x = document.querySelectorAll("WISH , balloon-container");
         
         if (x.style.display === "none") {
