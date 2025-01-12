@@ -48,6 +48,10 @@ var right = document.getElementsByClassName("right");
         x.pause(); 
     } 
 
+  var e = document.getElementById("show_button");
+        e.addEventListener("click", ()=>{
+            main_wish();
+        })
     function main_wish2() {
         var x = document.getElementById("WISH");
         // var x = document.querySelectorAll("WISH , balloon-container");
