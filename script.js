@@ -50,7 +50,7 @@ var right = document.getElementsByClassName("right");
 
   var e = document.getElementById("show_button");
         e.addEventListener("click", ()=>{
-            main_wish();
+            main_wish2();
         })
     function main_wish2() {
         var x = document.getElementById("WISH");
